@@ -82,6 +82,7 @@ width: 494px;
 height: 19px;
 margin-top: 200px;
 padding-bottom: 27px;
+padding-left: 40px;
 
 font-family: 'till';
 font-style: normal;
@@ -107,7 +108,7 @@ color: #000000;
 
 }
 .title4{
-    width: 494px;
+width: 494px;
 height: 19px;
 margin-top: 74px;
 
@@ -122,7 +123,7 @@ color: #000000;
 .text4{
     width: 1323px;
 height: 167px;
-left: 38px;
+
 
 
 font-family: 'till';
