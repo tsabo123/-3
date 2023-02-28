@@ -12,10 +12,14 @@ width: 1337px;
 height: 19px;
 margin-left: 38px;
 margin-top: 38px;
+background:url(image1.png)
+
 
 }
 
-
+.img{
+    background: url(image2.ong);
+}
 .title1{
     width: 1337px;
     height: 19px;
@@ -75,6 +79,7 @@ color: #000000;
     
 margin-left: 40px;
 margin-top: 37px;
+background: url(AA1.png);
 
 }
 .title3{
@@ -121,9 +126,8 @@ line-height: 24px;
 color: #000000;
 }
 .text4{
-    width: 1323px;
+width: 1323px;
 height: 167px;
-
 
 
 font-family: 'till';
@@ -134,4 +138,7 @@ line-height: 19px;
 text-align: center;
 
 color: #000000;
+}
+.image{
+    background:url(A1.png)
 }
