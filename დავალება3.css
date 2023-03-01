@@ -2,11 +2,12 @@
     font-family: 'till';
     src: url("../fonts/Inter-VariableFont_slnt\,wght.ttf");
 }
-.body {
+body {
 width: 1440px;
 height: 2100px;
 background: #FFFFFF;
 padding: 30px;
+
 }
 .container {
 width: 1337px;
